@@ -1,5 +1,3 @@
-# Rock, Paper and Scissors Game with AMIR !
-
 import random
 
 print("Rock...".lower())
